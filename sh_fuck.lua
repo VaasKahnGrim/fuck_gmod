@@ -1,5 +1,5 @@
 if SERVER then
- 
+ 	util.AddNetworkString "fuck"
 else
 	mesh.Begin() 
 	cam.Start3D2D()
